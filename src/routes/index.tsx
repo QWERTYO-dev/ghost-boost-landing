@@ -48,7 +48,7 @@ function Index() {
 
         {/* CTA Button */}
         <a
-          href="https://www.paypal.com/qrcodes/p2pqrc/Q6GUCTZV7TL52"
+          href="https://payhip.com/b/KzPZM"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-12 inline-flex items-center gap-3 px-10 py-5 bg-neon text-neon-foreground font-display font-bold text-lg sm:text-xl uppercase tracking-widest rounded-md box-neon-glow-lg animate-pulse-neon transition-all duration-300 hover:scale-105 hover:brightness-110"
